@@ -1,4 +1,3 @@
-68K8fcrWQyfpwaus
 marciovieira 
 
 npx prima studio 
